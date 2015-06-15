@@ -9,7 +9,7 @@
 ||api.github.com/_private$xmlhttprequest
 
 ! tumblr.com
-||www.tumblr.com/services/cslog$xmlhttprequest
-||www.tumblr.com/svc/log$xmlhttprequest
-||safe.txmblr.com/research
+||tumblr.com/services/cslog$xmlhttprequest
+||tumblr.com/svc/log$xmlhttprequest
+||txmblr.com/research
 ||tag.researchnow.com
