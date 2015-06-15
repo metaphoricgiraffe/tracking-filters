@@ -1,0 +1,15 @@
+! Title: Privacy filters
+! Expires: 1 days
+! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
+
+! getsentry.com
+||app.getsentry.com
+
+! github.com
+||api.github.com/_private$xmlhttprequest
+
+! tumblr.com
+||www.tumblr.com/services/cslog$xmlhttprequest
+||www.tumblr.com/svc/log$xmlhttprequest
+||safe.txmblr.com/research
+||tag.researchnow.com
