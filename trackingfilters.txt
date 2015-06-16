@@ -2,6 +2,9 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+! buzzfeed.com
+||pixel.buzzfeed.com$image,first-party
+
 ! getsentry.com
 ||app.getsentry.com
 
