@@ -14,6 +14,9 @@
 ! github.com
 ||api.github.com/_private$xmlhttprequest
 
+! pinterest.com
+||www.pinterest.com/_/_/report$xmlhttprequest,first-party
+
 ! tumblr.com
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
