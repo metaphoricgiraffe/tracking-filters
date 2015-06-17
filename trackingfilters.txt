@@ -26,6 +26,9 @@
 ! answers.yahoo.com
 ||answers.yahoo.com/ros
 
+! mail.yahoo.com
+||mail.yahoo.com/stats
+
 ! tumblr.com
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
