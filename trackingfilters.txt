@@ -16,7 +16,6 @@
 
 ! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
-||instagram.com/ajax/bz$xmlhttprequest,first-party
 
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
