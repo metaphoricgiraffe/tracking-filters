@@ -5,6 +5,9 @@
 ! buzzfeed.com
 ||pixel.buzzfeed.com$image,first-party
 
+! fastcompany.net
+||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
+
 ! getsentry.com
 ||app.getsentry.com
 
