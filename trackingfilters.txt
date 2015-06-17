@@ -20,6 +20,12 @@
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
+! YAHOO PROPERTIES
+||pr.comet.yahoo.com
+
+! answers.yahoo.com
+||answers.yahoo.com/ros
+
 ! tumblr.com
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
