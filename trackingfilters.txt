@@ -24,4 +24,5 @@
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
 ||txmblr.com/research
+||txmblr.com/svc/embed/iframe/slurppi$inline-script
 ||tag.researchnow.com
