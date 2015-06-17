@@ -21,7 +21,6 @@
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
 ! YAHOO PROPERTIES
-||pr.comet.yahoo.com
 
 ! answers.yahoo.com
 ||answers.yahoo.com/ros
