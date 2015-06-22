@@ -14,6 +14,9 @@
 ! github.com
 ||api.github.com/_private$xmlhttprequest
 
+! imgur.com
+||p.imgur.com/lumbar.gif$image,first-party
+
 ! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
 
