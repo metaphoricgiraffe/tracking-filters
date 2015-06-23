@@ -23,6 +23,11 @@
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
+! GOOGLE PROPERTIES
+
+! youtube.com
+||youtube.com/api/stats$xmlhttprequest
+
 ! YAHOO PROPERTIES
 
 ! answers.yahoo.com
