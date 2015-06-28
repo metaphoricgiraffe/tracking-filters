@@ -23,6 +23,11 @@
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
+! ultimate-guitar.com
+||cdn.ustatik.com/_img/1x1.gif$image,domain=ultimate-guitar.com
+||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
+||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
+
 ! GOOGLE PROPERTIES
 
 ! youtube.com
