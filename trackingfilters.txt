@@ -2,6 +2,9 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+! androidpolice.com
+||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
+
 ! buzzfeed.com
 ||pixel.buzzfeed.com$image,first-party
 
