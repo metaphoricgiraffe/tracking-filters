@@ -25,6 +25,9 @@
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
 ||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
 
+! imgur.com
+||p.imgur.com/lumbar.gif$image,first-party
+
 ! GOOGLE PROPERTIES
 
 ! youtube.com
