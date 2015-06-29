@@ -2,14 +2,8 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
-! albumoftheyear.org
-||cdn.albumoftheyear.org/images/square.jpg$image,first-party
-
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
-
-! buzzfeed.com
-||pixel.buzzfeed.com$image,first-party
 
 ! fastcompany.net
 ||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
@@ -27,9 +21,19 @@
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
 ! ultimate-guitar.com
-||cdn.ustatik.com/_img/1x1.gif$image,domain=ultimate-guitar.com
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
 ||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
+
+! PIXELS
+
+! albumoftheyear.org
+||cdn.albumoftheyear.org/images/square.jpg$image,first-party
+
+! buzzfeed.com
+||pixel.buzzfeed.com$image,first-party
+
+! ultimate-guitar.com
+||cdn.ustatik.com/_img/1x1.gif$image,domain=ultimate-guitar.com
 
 ! imgur.com
 ||p.imgur.com/lumbar.gif$image,first-party
