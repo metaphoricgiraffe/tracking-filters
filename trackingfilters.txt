@@ -2,6 +2,9 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+! albumoftheyear.org
+||cdn.albumoftheyear.org/images/square.jpg$image,first-party
+
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
