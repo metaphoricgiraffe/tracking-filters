@@ -18,6 +18,9 @@
 ! github.com
 ||api.github.com/_private$xmlhttprequest
 
+! premii.com
+||t.premii.com/log$image,first-party
+
 ! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
 ||instagram.com/ajax/bz$xmlhttprequest,first-party
