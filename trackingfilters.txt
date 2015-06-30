@@ -2,6 +2,10 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+! aol.com
+||portal.aolcdn.com/*/x.gif$image
+||*.aolcdn.com/os/aol/beacon.min.js$script
+
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
