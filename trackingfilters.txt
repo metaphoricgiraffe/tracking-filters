@@ -52,6 +52,7 @@
 ||mail.yahoo.com/stats
 
 ! tumblr.com
+||assets.tumblr.com/images/x.gif?v=*$image
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
 ||txmblr.com/research
