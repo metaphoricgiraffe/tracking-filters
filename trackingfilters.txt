@@ -32,6 +32,9 @@
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
 ||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
 
+! washingtonpost.com
+||targeting.wpdigital.net$xmlhttprequest,domain=washingtonpost.com
+
 ! PIXELS
 
 ! albumoftheyear.org
