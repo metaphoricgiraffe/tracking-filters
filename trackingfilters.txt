@@ -9,6 +9,10 @@
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
+! change.org
+||change.org/api-proxy/-/*/referers$xmlhttprequest
+||change.org/api-proxy/-/event_tracker$xmlhttprequest
+
 ! fastcompany.net
 ||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
 
