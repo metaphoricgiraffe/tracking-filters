@@ -49,6 +49,10 @@
 ! imgur.com
 ||p.imgur.com/lumbar.gif$image,first-party
 
+! OTHER
+
+/rg-logabpstatus.php*first-party
+
 ! GOOGLE PROPERTIES
 
 ! youtube.com
