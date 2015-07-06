@@ -4,7 +4,7 @@
 
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
-||*.aolcdn.com/os/aol/beacon.min.js$script
+||aolcdn.com/os/aol/beacon.min.js$script
 
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
