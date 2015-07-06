@@ -44,7 +44,7 @@
 ||pixel.buzzfeed.com$image,first-party
 
 ! ultimate-guitar.com
-||cdn.ustatik.com/_img/1x1.gif$image,domain=ultimate-guitar.com
+||cdn.ustatik.com/*/1x1.gif$image,domain=ultimate-guitar.com
 
 ! imgur.com
 ||p.imgur.com/lumbar.gif$image,first-party
