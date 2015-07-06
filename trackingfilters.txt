@@ -51,7 +51,7 @@
 
 ! OTHER
 
-/rg-logabpstatus.php*first-party
+/rg-logabpstatus.php*$first-party
 
 ! GOOGLE PROPERTIES
 
