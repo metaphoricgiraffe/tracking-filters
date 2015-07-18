@@ -47,6 +47,9 @@
 ! buzzfeed.com
 ||pixel.buzzfeed.com$image,first-party
 
+! exlibrisgroup.com
+||beacon01.alma.exlibrisgroup.com/boom$image
+
 ! ultimate-guitar.com
 ||cdn.ustatik.com/*/1x1.gif$image,domain=ultimate-guitar.com
 
