@@ -23,7 +23,6 @@
 
 ! github.com
 ||api.github.com/_private/browser/stats$other,first-party
-||api.github.com/_private$xmlhttprequest
 
 ! premii.com
 ||t.premii.com/log$image,first-party
