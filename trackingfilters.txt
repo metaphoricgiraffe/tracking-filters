@@ -46,6 +46,9 @@
 ! washingtonpost.com
 ||targeting.wpdigital.net$xmlhttprequest,domain=washingtonpost.com
 
+! imgur.com
+||s.imgur.com/min/px.js$script,first-party
+
 ! PIXELS
 
 ! albumoftheyear.org
