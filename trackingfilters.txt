@@ -22,6 +22,7 @@
 ||app.getsentry.com
 
 ! github.com
+||api.github.com/_private/browser/stats$other,first-party
 ||api.github.com/_private$xmlhttprequest
 
 ! premii.com
