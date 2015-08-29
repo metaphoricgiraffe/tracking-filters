@@ -81,6 +81,7 @@
 ||youtube.com/api/stats$xmlhttprequest
 
 ! YAHOO PROPERTIES
+||geo.query.yahoo.com
 
 ! answers.yahoo.com
 ||answers.yahoo.com/ros
@@ -89,7 +90,7 @@
 ||mail.yahoo.com/stats
 
 ! tumblr.com
-||geo.query.yahoo.com$domain=tumblr.com
+
 ||assets.tumblr.com/images/x.gif?v=*$image
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
