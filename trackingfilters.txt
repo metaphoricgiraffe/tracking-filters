@@ -48,6 +48,13 @@
 ! imgur.com
 ||s.imgur.com/min/px.js$script,first-party
 
+! startribune.com
+||startribune.com/*/st.marketdata.js$script,domain=www.startribune.com
+||startribune.com/*/advertiser_details.js$script,domain=www.startribune.com
+
+! grvcdn.com
+||grvcdn.com$script
+
 ! PIXELS
 
 ! albumoftheyear.org
@@ -70,6 +77,9 @@
 
 ! sharebutton.to
 ||stcounter.com
+
+! livestrong.com
+||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
 
 ! OTHER
 
