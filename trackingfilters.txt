@@ -38,6 +38,9 @@
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
+! propublica.org
+||www.propublica.org/js/public/assets/beacons.js$script
+
 ! ultimate-guitar.com
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
 ||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
