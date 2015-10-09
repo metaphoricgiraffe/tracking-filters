@@ -84,6 +84,9 @@
 ! livestrong.com
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
 
+! youtube.com
+||s.ytimg.com/yts/img/pixel-*.gif$domain=www.youtube.com
+
 ! OTHER
 
 /rg-logabpstatus.php*$first-party
