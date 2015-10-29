@@ -5,6 +5,9 @@
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
+! audioboom.com
+||audioboom.com/stats/metrics/
+
 ! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
