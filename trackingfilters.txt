@@ -99,6 +99,9 @@
 
 ! GOOGLE PROPERTIES
 
+! apis.google.com
+||apis.google.com/_/jserror$xmlhttprequest
+
 ! youtube.com
 ||youtube.com/api/stats$xmlhttprequest
 
