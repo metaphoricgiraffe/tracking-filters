@@ -5,7 +5,7 @@
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
-! androidpolice.com
+! androidpolice.com||s.ytimg.com/yts/img/pixel-*.gif$domain=www.youtube.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
 ! change.org
@@ -83,9 +83,6 @@
 
 ! livestrong.com
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
-
-! youtube.com
-||s.ytimg.com/yts/img/pixel-*.gif$domain=www.youtube.com
 
 ! OTHER
 
