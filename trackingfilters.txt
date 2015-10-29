@@ -21,9 +21,6 @@
 ! facebook.com
 ||graph.facebook.com$xmlhttprequest
 
-! flickr.com
-||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
-
 ! getsentry.com
 ||app.getsentry.com
 
@@ -107,6 +104,9 @@
 
 ! mail.yahoo.com
 ||mail.yahoo.com/stats
+
+! flickr.com
+||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
 
 ! tumblr.com
 ||assets.tumblr.com/images/x.gif?v=*$image
