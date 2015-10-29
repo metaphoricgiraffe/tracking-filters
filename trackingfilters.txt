@@ -5,7 +5,7 @@
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
-! androidpolice.com||s.ytimg.com/yts/img/pixel-*.gif$domain=www.youtube.com
+! androidpolice.com
 ||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
 
 ! change.org
