@@ -5,6 +5,9 @@
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
+! amplitude.com
+||api.amplitude.com
+
 ! audioboom.com
 ||audioboom.com/stats/metrics/
 
