@@ -112,6 +112,7 @@
 ||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
 
 ! tumblr.com
+||assets.tumblr.com/images/x.gif$image
 ||assets.tumblr.com/images/x.gif?v=*$image
 ||tumblr.com/services/cslog$xmlhttprequest
 ||tumblr.com/svc/log$xmlhttprequest
