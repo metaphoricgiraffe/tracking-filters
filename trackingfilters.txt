@@ -38,6 +38,9 @@
 ||myspace.com/ajax/adcontenttracker$xmlhttprequest,first-party
 ||myspace.com/pageview_candidate.xml$xmlhttprequest,first-party
 
+! medium.com
+||medium.com/_/api/promo/read_next_sign_in_tnt/impression$xmlhttprequest
+
 ! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 
