@@ -105,10 +105,6 @@
 ! youtube.com
 ||youtube.com/api/stats$xmlhttprequest
 
-! mail.google.com
-||mail.google.com/mail/images/cleardot.gif$image,first-party
-||mail-attachment.googleusercontent.com/images/cleardot.gif$image
-
 ! YAHOO PROPERTIES
 ||geo.query.yahoo.com
 
