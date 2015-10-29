@@ -110,6 +110,7 @@
 
 ! flickr.com
 ||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
+||www.flickr.com/beacon_rb_jserror.gne$image,domain=www.flickr.com
 
 ! tumblr.com
 ||assets.tumblr.com/images/x.gif$image
