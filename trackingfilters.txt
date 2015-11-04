@@ -93,6 +93,10 @@
 ! livestrong.com
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
 
+! huffpost.com
+||s1.huffpost.com/images/blank.gif$image
+
+
 ! OTHER
 
 /rg-logabpstatus.php*$first-party
