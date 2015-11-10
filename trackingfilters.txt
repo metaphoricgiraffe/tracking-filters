@@ -12,7 +12,8 @@
 ||audioboom.com/stats/metrics/
 
 ! androidpolice.com
-||androidpolice.com/wp-content/plugins/ap-hotness/js/aph-pvc.js$script,first-party
+||www.androidpolice.com/wp-content/plugins/ap-hotness/assets/js/aph-pvc.js$script
+||www.androidpolice.com/wp-content/plugins/ap-hotness/aph-post-view-counter.php$xmlhttprequest
 
 ! change.org
 ||change.org/api-proxy/-/*/referers$xmlhttprequest
