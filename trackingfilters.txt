@@ -68,6 +68,9 @@
 ! grvcdn.com
 ||grvcdn.com$script
 
+|| buzzfeed.com
+||www.buzzfeed.com/api/optimization$xmlhttprequest
+
 ! PIXELS
 
 ! albumoftheyear.org
