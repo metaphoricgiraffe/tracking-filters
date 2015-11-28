@@ -68,7 +68,7 @@
 ! grvcdn.com
 ||grvcdn.com$script
 
-|| buzzfeed.com
+! buzzfeed.com
 ||www.buzzfeed.com/api/optimization$xmlhttprequest
 
 ! PIXELS
