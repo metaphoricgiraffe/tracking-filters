@@ -65,6 +65,9 @@
 ||startribune.com/*/st.marketdata.js$script,domain=www.startribune.com
 ||startribune.com/*/advertiser_details.js$script,domain=www.startribune.com
 
+! soundcloud.com
+||eventgateway.soundcloud.com/v1/event$xmlhttprequest
+
 ! grvcdn.com
 ||grvcdn.com$script
 
