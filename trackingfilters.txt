@@ -91,6 +91,9 @@
 ! reddit.com
 ||reddit.com/static/pixel.png$first-party,image
 
+! news.ycombinator.com
+||news.ycombinator.com/s.gif
+
 ! imgur.com
 ||p.imgur.com/lumbar.gif$image,first-party
 
