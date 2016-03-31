@@ -74,6 +74,10 @@
 ! buzzfeed.com
 ||www.buzzfeed.com/api/optimization$xmlhttprequest
 
+! okcupid.com
+||okcupid.com/sookie/remote_sookie.html?name=blocked_pageview*
+||okcupid.com/1/apitun/okc/clientstats$xmlhttprequest
+
 ! PIXELS
 
 ! albumoftheyear.org
