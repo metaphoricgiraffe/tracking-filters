@@ -80,6 +80,7 @@
 
 ! PIXELS
 
+||s.imgur.com/images/tipsy.gif$image
 ||pastebin.com/i/t.gif$image,first-party
 ||cdn.albumoftheyear.org/images/square.jpg$image,first-party
 ||pixel.buzzfeed.com$image,first-party
