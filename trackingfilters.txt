@@ -80,36 +80,17 @@
 
 ! PIXELS
 
-! albumoftheyear.org
+||pastebin.com/i/t.gif$image,first-party
 ||cdn.albumoftheyear.org/images/square.jpg$image,first-party
-
-! buzzfeed.com
 ||pixel.buzzfeed.com$image,first-party
-
-! exlibrisgroup.com
 ||beacon01.alma.exlibrisgroup.com/boom$image
-
-! ultimate-guitar.com
 ||cdn.ustatik.com/*/1x1.gif$image,domain=ultimate-guitar.com
-
-! reddit.com
 ||reddit.com/static/pixel.png$first-party,image
-
-! news.ycombinator.com
 ||news.ycombinator.com/s.gif
-
-! imgur.com
 ||p.imgur.com/lumbar.gif$image,first-party
-
-! sharebutton.to
 ||stcounter.com
-
-! livestrong.com
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
-
-! huffpost.com
 ||s1.huffpost.com/images/blank.gif$image
-
 
 ! OTHER
 
