@@ -4,6 +4,9 @@
 
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
 
+! cnbc.com
+||www.nbcudigitaladops.com
+
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
