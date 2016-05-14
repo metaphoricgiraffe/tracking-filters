@@ -38,6 +38,7 @@
 
 ! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
+||instagram.com/client_error/$xmlhttprequest,first-party
 ||instagram.com/ajax/bz$xmlhttprequest,first-party
 
 ! myspace.com
