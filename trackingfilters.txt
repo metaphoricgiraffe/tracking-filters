@@ -36,6 +36,9 @@
 ! premii.com
 ||t.premii.com/log$image,first-party
 
+! foxtype.com
+||api-guardian.foxtype.com/main/landing$xmlhttprequest
+
 ! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
 ||instagram.com/client_error/$xmlhttprequest,first-party
