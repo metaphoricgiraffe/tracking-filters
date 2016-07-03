@@ -89,6 +89,7 @@
 
 ! PIXELS
 
+||visuals.guim.co.uk/thrashers/*/empty.gif$image
 ||s.imgur.com/images/tipsy.gif$image
 ||pastebin.com/i/t.gif$image,first-party
 ||cdn.albumoftheyear.org/images/square.jpg$image,first-party
