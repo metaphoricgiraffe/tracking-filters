@@ -7,6 +7,9 @@
 ! cnbc.com
 ||www.nbcudigitaladops.com
 
+! autopilothq.com
+||api.autopilothq.com
+
 ! aol.com
 ||portal.aolcdn.com/*/x.gif$image
 
