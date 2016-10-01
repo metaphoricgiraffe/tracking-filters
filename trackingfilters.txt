@@ -20,6 +20,9 @@
 ||www.androidpolice.com/wp-content/plugins/ap-hotness/assets/js/aph-pvc.js$script
 ||www.androidpolice.com/wp-content/plugins/ap-hotness/aph-post-view-counter.php$xmlhttprequest
 
+! bloomberg.com
+||personalization.bloomberg.com$xmlhttprequest
+
 ! change.org
 ||change.org/api-proxy/-/*/referers$xmlhttprequest
 ||change.org/api-proxy/-/event_tracker$xmlhttprequest
@@ -106,6 +109,7 @@
 ! OTHER
 
 /rg-logabpstatus.php*$first-party
+||cws.conviva.com
 
 ! GOOGLE PROPERTIES
 
