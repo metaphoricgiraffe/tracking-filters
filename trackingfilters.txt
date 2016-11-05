@@ -3,6 +3,7 @@
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
+||facebook.com/ajax/bz$xmlhttprequest,important
 
 ! cnbc.com
 ||www.nbcudigitaladops.com
