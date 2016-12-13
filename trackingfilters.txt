@@ -4,6 +4,7 @@
 
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
 ||facebook.com/ajax/bz$xmlhttprequest,important
+||dtm.fairfaxstatic.com.au$script
 
 ! cnbc.com
 ||www.nbcudigitaladops.com
