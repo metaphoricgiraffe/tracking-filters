@@ -2,6 +2,8 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||zillow.com/homepage/HomepageVideoMetrics.htm$xmlhttprequest
+||analytics.zillowcloud.com
 ||domain.com.au/usersstats$xmlhttprequest
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
 ||facebook.com/ajax/bz$xmlhttprequest,important
