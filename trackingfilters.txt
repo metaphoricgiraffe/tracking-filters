@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||domain.com.au/usersstats$xmlhttprequest
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
 ||facebook.com/ajax/bz$xmlhttprequest,important
 ||dtm.fairfaxstatic.com.au$script
