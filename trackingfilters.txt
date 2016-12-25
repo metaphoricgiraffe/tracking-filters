@@ -7,95 +7,43 @@
 ||dtm.fairfaxstatic.com.au$script
 ||tailor.guardianapis.com
 ||vid.me/api/metric
-
-! cnbc.com
 ||www.nbcudigitaladops.com
-
-! autopilothq.com
 ||api.autopilothq.com
-
-! aol.com
 ||portal.aolcdn.com/*/x.gif$image
-
-! amplitude.com
 ||api.amplitude.com
-
-! audioboom.com
 ||audioboom.com/stats/metrics/
-
-! androidpolice.com
 ||www.androidpolice.com/wp-content/plugins/ap-hotness/assets/js/aph-pvc.js$script
 ||www.androidpolice.com/wp-content/plugins/ap-hotness/aph-post-view-counter.php$xmlhttprequest
-
-! bloomberg.com
 ||personalization.bloomberg.com$xmlhttprequest
-
-! change.org
 ||change.org/api-proxy/-/*/referers$xmlhttprequest
 ||change.org/api-proxy/-/event_tracker$xmlhttprequest
-
-! fastcompany.net
 ||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
-
-! facebook.com
 ||graph.facebook.com$xmlhttprequest
-
-! getsentry.com
 ||app.getsentry.com
-
-! github.com
 ||api.github.com/_private/browser/stats$other,first-party
-
-! premii.com
 ||t.premii.com/log$image,first-party
-
-! foxtype.com
 ||api-guardian.foxtype.com/main/landing$xmlhttprequest
-
-! instagram.com
 ||instagram.com/client_action/$xmlhttprequest,first-party
 ||instagram.com/client_error/$xmlhttprequest,first-party
 ||instagram.com/ajax/bz$xmlhttprequest,first-party
-
-! myspace.com
 ||myspace.com/ajax/adcontenttracker$xmlhttprequest,first-party
 ||myspace.com/pageview_candidate.xml$xmlhttprequest,first-party
-
-! medium.com
 ||medium.com/_/api/promo/read_next_sign_in_tnt/impression$xmlhttprequest
-
-! pinterest.com
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
-
-! propublica.org
 ||www.propublica.org/js/public/assets/beacons.js$script
-
-! ultimate-guitar.com
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
 ||profile.ultimate-guitar.com/tabs_hits_counter.php$first-party
-
-! washingtonpost.com
 ||targeting.wpdigital.net$xmlhttprequest,domain=washingtonpost.com
-
-! imgur.com
 ||s.imgur.com/min/px.js$script,first-party
-
-! startribune.com
 ||startribune.com/*/st.marketdata.js$script,domain=www.startribune.com
 ||startribune.com/*/advertiser_details.js$script,domain=www.startribune.com
-
-! soundcloud.com
 ||eventgateway.soundcloud.com/v1/event$xmlhttprequest
-
-! grvcdn.com
 ||grvcdn.com$script
-
-! buzzfeed.com
 ||www.buzzfeed.com/api/optimization$xmlhttprequest
-
-! okcupid.com
 ||okcupid.com/sookie/remote_sookie.html?name=blocked_pageview*
 ||okcupid.com/1/apitun/okc/clientstats$xmlhttprequest
+/rg-logabpstatus.php*$first-party
+||cws.conviva.com
 
 ! PIXELS
 
@@ -113,33 +61,17 @@
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
 ||s1.huffpost.com/images/blank.gif$image
 
-! OTHER
+! GOOGLE
 
-/rg-logabpstatus.php*$first-party
-||cws.conviva.com
-
-! GOOGLE PROPERTIES
-
-! apis.google.com
 ||apis.google.com/_/jserror$xmlhttprequest
-
-! youtube.com
 ||youtube.com/api/stats$xmlhttprequest
 
-! YAHOO PROPERTIES
+! YAHOO
 ||geo.query.yahoo.com
-
-! answers.yahoo.com
 ||answers.yahoo.com/ros
-
-! mail.yahoo.com
 ||mail.yahoo.com/stats
-
-! flickr.com
 ||www.flickr.com/beacon_client_api_timings.gne$xmlhttprequest,domain=www.flickr.com
 ||www.flickr.com/beacon_rb_jserror.gne$image,domain=www.flickr.com
-
-! tumblr.com
 ||assets.tumblr.com/images/x.gif$image
 ||assets.tumblr.com/images/x.gif?v=*$image
 ||tumblr.com/services/cslog$xmlhttprequest
