@@ -6,6 +6,7 @@
 ||facebook.com/ajax/bz$xmlhttprequest,important
 ||dtm.fairfaxstatic.com.au$script
 ||tailor.guardianapis.com
+||vid.me/api/metric
 
 ! cnbc.com
 ||www.nbcudigitaladops.com
