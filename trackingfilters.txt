@@ -2,6 +2,8 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||rightmove.co.uk/brandedsearchlog$xmlhttprequest
+||rightmove.co.uk/ps/images/analytics$image
 ||perimeterx.net/api/*/collector$xmlhttprequest
 ||zillow.com/homepage/HomepageVideoMetrics.htm$xmlhttprequest
 ||analytics.zillowcloud.com
