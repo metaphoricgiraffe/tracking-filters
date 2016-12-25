@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||perimeterx.net/api/*/collector$xmlhttprequest
 ||zillow.com/homepage/HomepageVideoMetrics.htm$xmlhttprequest
 ||analytics.zillowcloud.com
 ||domain.com.au/usersstats$xmlhttprequest
