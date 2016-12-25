@@ -29,6 +29,7 @@
 ||myspace.com/ajax/adcontenttracker$xmlhttprequest,first-party
 ||myspace.com/pageview_candidate.xml$xmlhttprequest,first-party
 ||medium.com/_/api/promo/read_next_sign_in_tnt/impression$xmlhttprequest
+||medium.com/_/api/users/*/writing-velocity$xmlhttprequest
 ||pinterest.com/_/_/report$xmlhttprequest,first-party
 ||www.propublica.org/js/public/assets/beacons.js$script
 ||www.ultimate-guitar.com/analytics$domain=ultimate-guitar.com
