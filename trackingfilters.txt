@@ -53,6 +53,7 @@
 ||okcupid.com/1/apitun/okc/clientstats$xmlhttprequest
 /rg-logabpstatus.php*$first-party
 ||cws.conviva.com
+||www.codecademy.com/stats$xmlhttprequest
 
 ! PIXELS
 
