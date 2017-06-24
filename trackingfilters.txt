@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||producthunt.com/frontend/analytics
 ||songmeanings.com/ez_aba_load
 ||songmeanings.com/ezoic
 ||rightmove.co.uk/brandedsearchlog$xmlhttprequest
