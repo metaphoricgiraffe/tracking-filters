@@ -9,7 +9,7 @@ Please report any issues and site breakage with the filters at https://github.co
 ## Usage with uBlock Origin
 
 1. Visit https://filterlists.com/
-2. Click add on "metaphoricgiraffe's tracking filters"
+2. Click add on "Privacy Filters"
 
 Alternatively, manually subscribe by pasting a link to "https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt" in the  3rd-party filters section in uBlock Origin settings.
 
