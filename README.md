@@ -1,4 +1,4 @@
-# Privacy Filter List
+# Privacy Filters
 
 Block popular online trackers, for use in [uBlock Origin](https://github.com/gorhill/uBlock).
 
