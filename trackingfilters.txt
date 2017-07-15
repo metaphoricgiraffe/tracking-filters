@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||reload.getsentry.net/page/$xmlhttprequest
 ||api.vidora.com/v1/users$xmlhttprequest
 ||experience.tinypass.com$xmlhttprequest
 ||e.reddit.com$xmlhttprequest
