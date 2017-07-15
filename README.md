@@ -1,6 +1,16 @@
-# tracking-filters
+# Tracking filter list
 
-A text file with filters to assist in blocking online trackers on popular websites, for use in a blocker such as [uBlock Origin](https://github.com/gorhill/uBlock).
+Block popular online trackers, for use in [uBlock Origin](https://github.com/gorhill/uBlock).
+
+## What is blocked?
+
+This list only blocks trackers I find NOT blocked in:
+
+* EasyPrivacy
+* MVPS HOSTS
+* hpHosts’ Ad and tracking servers
+
+This list should be used in conjunction with other privacy filters.
 
 ## Issues
 
@@ -14,16 +24,6 @@ Please report any issues and site breakage with the filters at https://github.co
 Alternatively, manually subscribe by pasting a link to "https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt" in the  3rd-party filters section in uBlock Origin settings.
 
 ![Pasting filter URL in the text field in the uBlock Origin UI](https://cloud.githubusercontent.com/assets/12890281/8431517/5fd52b80-1f7d-11e5-9397-16f096e64262.png)
-
-## Notes
-
-This list to designed to be used in conjunction with other filter lists, specifically:
-
-* EasyPrivacy
-* MVPS HOSTS
-* hpHosts’ Ad and tracking servers
-
-This list fills in unblocked tracking content from these lists.
 
 ## License
 
