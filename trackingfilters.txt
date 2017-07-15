@@ -38,6 +38,7 @@
 ||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
 ||graph.facebook.com$xmlhttprequest
 ||app.getsentry.com
+||sentry.io$xmlhttprequest
 ||api.github.com/_private/browser/stats$other,first-party
 ||t.premii.com/log$image,first-party
 ||api-guardian.foxtype.com/main/landing$xmlhttprequest
