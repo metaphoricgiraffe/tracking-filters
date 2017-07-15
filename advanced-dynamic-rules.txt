@@ -1,6 +1,0 @@
-! Title: Privacy filters (dynamic, advanced users mode only)
-! Expires: 1 days
-! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
-
-behind-the-scene https://s.youtube.com image block
-behind-the-scene https://www.youtube.com xmlhttprequest block
