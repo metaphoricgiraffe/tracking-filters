@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||forbes.com/forbesapi/log.json$xmlhttprequest,first-party
 ||nl3.bladewp.com/prov$xmlhttprequest
 ||logger.unsplash.com
 ||e.reddit.com$xmlhttprequest
