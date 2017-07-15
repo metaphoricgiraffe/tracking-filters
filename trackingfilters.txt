@@ -13,7 +13,6 @@
 ||forbes.com/forbesapi/log.json$xmlhttprequest,first-party
 ||nl3.bladewp.com/prov$xmlhttprequest
 ||logger.unsplash.com
-||e.reddit.com$xmlhttprequest
 ||reddit.com/api/request_promo$xmlhttprequest
 ||producthunt.com/frontend/analytics
 ||songmeanings.com/ez_aba_load
