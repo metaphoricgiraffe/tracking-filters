@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||app.adjust.com
 ||theatlantic.com/api/user_country$xmlhttprequest
 ||reddit.com/api/request_recommended_link$xmlhttprequest
 ||medium.com/_/api/promo$xmlhttprequest
