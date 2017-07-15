@@ -3,9 +3,7 @@
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
 ||e.reddit.com$xmlhttprequest
-||reddit.com/static/pixel.png$image
 ||licensing.bitmovin.com/impression$xmlhttprequest
-||businessinsider.com/assets/images/transparent.gif$image,first-party
 ||forbes.com/forbesapi/log.json$xmlhttprequest,first-party
 ||nl3.bladewp.com/prov$xmlhttprequest
 ||logger.unsplash.com
@@ -67,18 +65,19 @@
 
 ! PIXELS
 
+||businessinsider.com/assets/images/transparent.gif$image
 ||visuals.guim.co.uk/thrashers/*/empty.gif$image
 ||s.imgur.com/images/tipsy.gif$image
-||pastebin.com/i/t.gif$image,first-party
-||cdn.albumoftheyear.org/images/square.jpg$image,first-party
-||pixel.buzzfeed.com$image,first-party
+||pastebin.com/i/t.gif$image
+||cdn.albumoftheyear.org/images/square.jpg$image
+||pixel.buzzfeed.com$image
 ||beacon01.alma.exlibrisgroup.com/boom$image
-||cdn.ustatik.com/*/1x1.gif$image,domain=ultimate-guitar.com
-||reddit.com/static/pixel.png$first-party,image
-||news.ycombinator.com/s.gif
-||p.imgur.com/lumbar.gif$image,first-party
+||cdn.ustatik.com/*/1x1.gif$image
+||reddit.com/static/pixel.png$image
+||news.ycombinator.com/s.gif$image
+||p.imgur.com/lumbar.gif$image
 ||stcounter.com
-||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image,domain=www.livestrong.com
+||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image
 ||s1.huffpost.com/images/blank.gif$image
 
 ! GOOGLE
