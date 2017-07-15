@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||tags.tiqcdn.com
 ||licensing.bitmovin.com/impression$xmlhttprequest
 ||businessinsider.com/assets/images/transparent.gif$image,first-party
 ||forbes.com/forbesapi/log.json$xmlhttprequest,first-party
