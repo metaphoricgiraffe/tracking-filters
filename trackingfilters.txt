@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||experience.tinypass.com$xmlhttprequest
 ||e.reddit.com$xmlhttprequest
 ||licensing.bitmovin.com/impression$xmlhttprequest
 ||forbes.com/forbesapi/log.json$xmlhttprequest,first-party
@@ -79,6 +80,7 @@
 ||stcounter.com
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image
 ||s1.huffpost.com/images/blank.gif$image
+||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
 
 ! GOOGLE
 
