@@ -109,10 +109,10 @@
 ||tumblr.com/services/cslog$beacon
 ||tumblr.com/svc/log$xmlhttprequest
 ||txmblr.com/research
-
-! MEDIUM WHITE LABEL
-||*.com/_/batch$xmlhttprequest,first-party
 ||txmblr.com/svc/embed/iframe/slurppi$inline-script
 ||ls.srvcs.tumblr.com/services/bblog$xmlhttprequest
 ||tag.researchnow.com
 ||assets.tumblr.com/images/transparent-pixel.png$image
+
+! MEDIUM WHITE LABEL
+||*.com/_/batch$xmlhttprequest,first-party
