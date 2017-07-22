@@ -2,6 +2,8 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||genius.com/api/songs/*/count_view$xmlhttprequest
+||librato-collector.genius.com/v1/metrics$xmlhttprequest
 ||fresnel.vimeocdn.com/add/player-stats?es=1$other
 ||app.adjust.com
 ||theatlantic.com/api/user_country$xmlhttprequest
