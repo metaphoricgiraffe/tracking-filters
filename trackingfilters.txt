@@ -93,7 +93,7 @@
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
 
 ! GOOGLE
-
+||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
 ||apis.google.com/_/jserror$xmlhttprequest
 ||youtube.com/api/stats$xmlhttprequest
 
