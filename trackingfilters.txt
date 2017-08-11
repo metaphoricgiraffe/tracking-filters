@@ -74,6 +74,7 @@
 /rg-logabpstatus.php*$first-party
 ||cws.conviva.com
 ||www.codecademy.com/stats$xmlhttprequest
+||owlsr.us^
 
 ! PIXELS
 
