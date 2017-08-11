@@ -30,7 +30,6 @@
 ||analytics.zillowcloud.com
 ||domain.com.au/usersstats$xmlhttprequest
 ||origin.dove.saymedia.com/rid$xmlhttprequest,important
-||facebook.com/ajax/bz$xmlhttprequest,important
 ||dtm.fairfaxstatic.com.au$script
 ||tailor.guardianapis.com
 ||vid.me/api/metric
@@ -45,15 +44,11 @@
 ||change.org/api-proxy/-/*/referers$xmlhttprequest
 ||change.org/api-proxy/-/event_tracker$xmlhttprequest
 ||a.fastcompany.net/multisite_files/fastcompany/static/sites/js/*/vendor/omniture-scode-prod.js
-||graph.facebook.com$xmlhttprequest
 ||app.getsentry.com
 ||sentry.io$xmlhttprequest
 ||api.github.com/_private/browser/stats$other,first-party
 ||t.premii.com/log$image,first-party
 ||api-guardian.foxtype.com/main/landing$xmlhttprequest
-||instagram.com/client_action/$xmlhttprequest,first-party
-||instagram.com/client_error/$xmlhttprequest,first-party
-||instagram.com/ajax/bz$xmlhttprequest,first-party
 ||myspace.com/ajax/adcontenttracker$xmlhttprequest,first-party
 ||myspace.com/pageview_candidate.xml$xmlhttprequest,first-party
 ||medium.com/_/api/promo/read_next_sign_in_tnt/impression$xmlhttprequest
@@ -93,6 +88,14 @@
 ||*.livestrongcdn.com/ui/images/modules/loading/pixel.gif$image
 ||s1.huffpost.com/images/blank.gif$image
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
+
+! FACEBOOK
+||facebook.com/ajax/photos/logging/session_logging.php$important,xmlhttprequest
+||facebook.com/ajax/bz$xmlhttprequest,important
+||graph.facebook.com$xmlhttprequest
+||instagram.com/client_action/$xmlhttprequest,first-party
+||instagram.com/client_error/$xmlhttprequest,first-party
+||instagram.com/ajax/bz$xmlhttprequest,first-party
 
 ! GOOGLE
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
