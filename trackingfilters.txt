@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||r.fullstory.com^
 ||justfreethemes.com/wp-json/theo/v1/track/*$xmlhttprequest,first-party
 ||sibautomation.com/cm.html
 ||in-automate.sendinblue.com
