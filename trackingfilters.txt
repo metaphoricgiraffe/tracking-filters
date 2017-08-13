@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||app.upscope.io/session.json$xmlhttprequest
 ||getjaco.com$xmlhttprequest,third-party
 ||r.staging.fullstory.com^
 ||r.fullstory.com^
