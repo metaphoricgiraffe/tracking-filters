@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||analytics.viral-loops.com^$xmlhttprequest
 ||tracking.reactful.com/tracking/*$xmlhttprequest
 ||app.zarget.com/ab/api/visitor/putinfo$xmlhttprequest
 ||app.upscope.io/session.json$xmlhttprequest
