@@ -107,7 +107,6 @@
 ||instagram.com/ajax/bz$xmlhttprequest,first-party
 
 ! GOOGLE
-||ssl.gstatic.com/docs/common/cleardot.gif
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
 ||apis.google.com/_/jserror$xmlhttprequest
 ||youtube.com/api/stats$xmlhttprequest
