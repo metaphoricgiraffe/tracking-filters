@@ -80,6 +80,7 @@
 ||cws.conviva.com
 ||www.codecademy.com/stats$xmlhttprequest
 ||owlsr.us^
+||abeagle-public.buzzfeed.com^$xmlhttprequest
 
 ! PIXELS
 
