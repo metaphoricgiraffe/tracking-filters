@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||analytics.icons8.com^
 ||api-iam.intercom.io/messenger/web/ping
 ||api-iam.intercom.io/messenger/web/events
 ||invisionapp.com/api/project-viewing/*/set-ended-at$xmlhttprequest
