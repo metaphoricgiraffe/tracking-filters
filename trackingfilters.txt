@@ -2,6 +2,8 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||outlook.live.com/owa/service.svc?action=LogDatapoint
+||browser.pipe.aria.microsoft.com/Collector/*
 ||analytics.icons8.com^
 ||api-iam.intercom.io/messenger/web/ping
 ||api-iam.intercom.io/messenger/web/events
