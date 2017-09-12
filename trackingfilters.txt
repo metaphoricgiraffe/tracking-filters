@@ -2,7 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
-||linkedin.com/mob/tracking$xmlhttprequest,domain=www.linkedin.com
+||linkedin.com/mob/tracking$xmlhttprequest
 ||linkedin.com/fizzy/admin$xmlhttprequest
 ||linkedin.com/lite/ua/error$xmlhttprequest
 ||linkedin.com/li/track$xmlhttprequest
