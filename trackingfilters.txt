@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||r.logrocket.com
 ||linkedin.com/voyager/api/legoWidgetImpressionEvents
 ||linkedin.com/mob/tracking$xmlhttprequest
 ||linkedin.com/fizzy/admin$xmlhttprequest
