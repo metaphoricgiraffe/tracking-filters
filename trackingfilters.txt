@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||soundcloud.com/*/events
 ||alb.reddit.com
 ||pwk.delvu.com
 ||treaty.io^$script
