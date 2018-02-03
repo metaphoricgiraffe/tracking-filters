@@ -2,7 +2,6 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
-||instagram.com/ajax/bz
 ||pwk.delvu.com
 ||treaty.io^$script
 ||treaty.io$xmlhttprequest
@@ -119,12 +118,12 @@
 ||s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/1x1.png?resize=1%2C1$image
 
 ! FACEBOOK
-||facebook.com/ajax/photos/logging/session_logging.php$important,xmlhttprequest
-||facebook.com/ajax/bz$xmlhttprequest,important
+||facebook.com/ajax/photos/logging/session_logging.php$important
+||facebook.com/ajax/bz$important
 ||graph.facebook.com$xmlhttprequest
-||instagram.com/client_action/$xmlhttprequest,first-party
-||instagram.com/client_error/$xmlhttprequest,first-party
-||instagram.com/ajax/bz$xmlhttprequest,first-party
+||instagram.com/client_action
+||instagram.com/client_error
+||instagram.com/ajax/bz
 
 ! GOOGLE
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
