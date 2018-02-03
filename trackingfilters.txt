@@ -129,7 +129,7 @@
 ! GOOGLE
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
 ||apis.google.com/_/jserror$xmlhttprequest
-||youtube.com/api/stats$xmlhttprequest
+||youtube.com/api/stats
 
 ! YAHOO
 ||geo.query.yahoo.com
