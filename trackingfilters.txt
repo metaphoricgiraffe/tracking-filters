@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||jobs.smartrecruiters.com/scripts/dot/dot.js
 ||stat.tildacdn.com/event/
 ||crumbs.robinhood.com/track
 ||4d.condenastdigital.com/user
