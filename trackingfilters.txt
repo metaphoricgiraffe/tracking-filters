@@ -135,6 +135,8 @@
 ||content.googleapis.com/drive/v2internal/viewerimpressions$xmlhttprequest,first-party
 ||apis.google.com/_/jserror$xmlhttprequest
 ||youtube.com/api/stats
+||maps.googleapis.com/maps/api/js/StatsService.RecordStats
+||maps.googleapis.com/maps/api/js/QuotaService.RecordEvent
 
 ! YAHOO
 ||geo.query.yahoo.com
