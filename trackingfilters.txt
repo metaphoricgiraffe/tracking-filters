@@ -129,7 +129,6 @@
 
 ! FACEBOOK
 ||facebook.com/ajax/photos/logging/session_logging.php$important
-||facebook.com/ajax/bz$important
 ||graph.facebook.com$xmlhttprequest
 ||instagram.com/client_action
 ||instagram.com/client_error
