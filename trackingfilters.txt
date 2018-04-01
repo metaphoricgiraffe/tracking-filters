@@ -114,9 +114,10 @@
 ||www.codecademy.com/stats$xmlhttprequest
 ||owlsr.us^
 ||abeagle-public.buzzfeed.com^$xmlhttprequest
+||*/campusm/insight/log
 
 ! PIXELS
-
+||*/campusm/1px.gif
 ||businessinsider.com/assets/images/transparent.gif$image
 ||visuals.guim.co.uk/thrashers/*/empty.gif$image
 ||s.imgur.com/images/tipsy.gif$image
