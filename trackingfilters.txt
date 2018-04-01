@@ -6,6 +6,12 @@
 ||reddit.com/timings
 ||events.reddit.com
 ||reddit.com/*/log/*
+||d.reddit.com
+||redditmedia.com/moat/*
+||reddit.com/api/share
+||reddit.com/api/register.json
+||reddit.com/api/login.json
+||reddit.com/api/share.json
 ||jobs.smartrecruiters.com/scripts/dot/dot.js
 ||stat.tildacdn.com/event/
 ||crumbs.robinhood.com/track
