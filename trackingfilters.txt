@@ -5,10 +5,6 @@
 ||*/signalr/*$xmlhttprequest
 ||n123loi.com
 ||imgur.com/b
-||reddit.com/api/friend.json
-||reddit.com/api/friend
-||reddit.com/api/comment
-||reddit.com/api/register
 ||reddit.com/errors
 ||reddit.com/timings
 ||events.reddit.com
