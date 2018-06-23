@@ -21,7 +21,9 @@ Please report any issues and site breakage with the filters at https://github.co
 1. Visit https://filterlists.com/
 2. Click add on "Privacy Filters"
 
-Alternatively, manually subscribe by pasting a link to "https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt" in the  3rd-party filters section in uBlock Origin settings.
+Alternatively, manually subscribe by pasting the following link in the 3rd-party filters section in uBlock Origin settings:
+
+`https://raw.githubusercontent.com/metaphoricgiraffe/tracking-filters/master/trackingfilters.txt`
 
 ![Pasting filter URL in the text field in the uBlock Origin UI](https://cloud.githubusercontent.com/assets/12890281/8431517/5fd52b80-1f7d-11e5-9397-16f096e64262.png)
 
