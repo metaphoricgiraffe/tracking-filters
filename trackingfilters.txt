@@ -2,6 +2,7 @@
 ! Expires: 1 days
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
+||lip11t.com
 ||ec.walkme.com/event/log
 ||zendesk.com/api/*/help_center/articles/*/stats
 ||n123loi.com
