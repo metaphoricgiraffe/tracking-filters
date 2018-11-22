@@ -6,7 +6,6 @@
 ||ec.walkme.com/event/log
 ||zendesk.com/api/*/help_center/articles/*/stats
 ||n123loi.com
-||imgur.com/b
 ||reddit.com/errors
 ||reddit.com/timings
 ||events.reddit.com
