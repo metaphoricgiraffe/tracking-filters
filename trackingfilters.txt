@@ -3,6 +3,9 @@
 ! Issue tracker: https://github.com/metaphoricgirrafe/tracking-filters/issues
 
 ||lip11t.com
+||echo360.org.au/lesson/*/confused/*$xmlhttprequest
+||echo360.org.au/video/*/viewed$xmlhttprequest
+||echo360.org.au/video/*/played$xmlhttprequest
 ||deliver.oztam.com.au/api/meter
 ||ec.walkme.com/event/log
 ||zendesk.com/api/*/help_center/articles/*/stats
